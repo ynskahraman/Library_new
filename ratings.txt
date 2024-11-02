@@ -1,1 +1,2 @@
-hakan,1984,5
+tac,Kavgam,4
+tac,nutuk,5

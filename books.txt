@@ -1,2 +1,3 @@
-Love, Hanna, 1910, 600, Mustafa Kemal, adana
-Nutuk, Ataturk, 1927, 500, Mustafa Kemal, adana
+Kavgam, Hitler, 1942, 600, Mustafa Kemal
+Nutuk, Ataturk, 1927, 500, Mustafa Kemal
+Androidler Elektrikli Koyun Düþler mi, PKD, 1960, 400, Mustafa Kemal

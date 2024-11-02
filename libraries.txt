@@ -1,3 +1,5 @@
 Ataturk, ankara
 Mustafa Kemal, adana
 yeni, adana
+midyat, mardin
+kars, kars
