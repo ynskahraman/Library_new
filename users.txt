@@ -1,0 +1,2 @@
+haci,123,yeni,adana
+hac,1234,Mustafa Kemal,adana

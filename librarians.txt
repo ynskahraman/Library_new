@@ -1,0 +1,2 @@
+Hasan,12345,Mustafa Kemal,adana
+murat,123,yeni,adana
